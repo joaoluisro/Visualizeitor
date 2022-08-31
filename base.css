@@ -1,0 +1,21 @@
+body{
+  font-size: 30;
+  text-align: center;
+  background-image: url("swirl_pattern.webp");
+}
+
+#header-brabo{
+  background-color: white;
+}
+
+#main-table{
+  margin: 100px;
+  background-color: white;
+}
+
+.navbar{
+  display: block;
+  margin: auto;
+  width: 40%;
+
+}
